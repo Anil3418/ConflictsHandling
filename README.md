@@ -1,0 +1,2 @@
+# ConflictsHandling
+resolving conflicts example
